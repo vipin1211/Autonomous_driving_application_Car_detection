@@ -16,6 +16,7 @@ Pictures taken from a car-mounted camera while driving around Silicon Valley.
 Dataset provided by drive.ai.
 You've gathered all these images into a folder and labelled them by drawing bounding boxes around every car you found. Here's an example of what your bounding boxes look like:
 
+![image](https://github.com/user-attachments/assets/69f263e2-94b1-4db3-80dd-06c0970ca4e1)
 
 
 Figure 1: Definition of a box
